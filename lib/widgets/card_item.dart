@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:week3_stateful_widgets/widgets/check_box.dart';
 
 import '../models/pokemon_card.dart';
 import '../screens/pokemon_screen.dart';
+import '../widgets/check_box.dart';
 import '../widgets/custom_image_network.dart';
 
 class CardItem extends StatelessWidget {
